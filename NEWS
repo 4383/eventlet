@@ -1,3 +1,9 @@
+0.34.2
+======
+
+* [bug] Fix broken API related to `__version__` removal https://github.com/eventlet/eventlet/pull/859
+* [doc] Fix pypi broken link https://github.com/eventlet/eventlet/pull/857
+
 0.34.1
 ======
 
